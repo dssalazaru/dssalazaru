@@ -4,4 +4,5 @@
 - 💠 Windows Server & Linux
 - 💠 Python [Django, Pandas, pyautogui]
 - 💠 JavaScript [NodeJS, Express, Web, VueJS]
-- 💠 Docker
+- 💠 Databases [MySQL/MariaDB, SQL Server, PostgresSQL, MongoDB]
+- 💠 Docker Compose
