@@ -2,7 +2,7 @@
 
 ### Some Skills!
 - 💠 Windows Server & Linux
-- 💠 Python [Django, Pandas, pyautogui]
+- 💠 Python [Django, FastAPI, Pandas, pyautogui]
 - 💠 JavaScript [NodeJS, Express, Web, VueJS]
 - 💠 Databases [MySQL/MariaDB, SQL Server, PostgresSQL, MongoDB]
-- 💠 Docker Compose
+- 💠 Docker [Compose]
