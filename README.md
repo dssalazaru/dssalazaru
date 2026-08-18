@@ -17,7 +17,7 @@ Monitoring and support of client cloud infrastructure; built internal tooling (a
 - **Backend APIs** in Python — FastAPI, Flask, Django REST — with SQLAlchemy over PostgreSQL / MySQL, and MongoDB where it fits. JWT auth, OpenAPI docs, tests with pytest.
 - **Cloud & serverless** — AWS (Lambda, S3, EventBridge, CloudWatch, SAM), plus Azure and Oracle Cloud. Docker / Compose for local and small deployments, Nginx in front.
 - **Ops & observability tooling** — Checkmk plugins, Telegram/Discord alert bots, Grafana / Loki / Tempo (LGTM) stacks, inventory and compliance reports for Linux fleets.
-- **Full-stack when needed** — Vue.js frontends, PHP / Laravel.
+- **Full-stack** — JavaScript / Vue.js frontends on top of Python APIs (FastAPI or Django) as the main combo. PHP / Laravel and other stacks come up in freelance client projects when the client already runs them.
 
 Current focus: a **Unix inventory & patch-compliance service** modelled on my day job — hexagonal architecture, FastAPI container + AWS Lambdas, OpenTelemetry tracing. Going public as it matures.
 
