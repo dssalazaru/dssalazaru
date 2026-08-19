@@ -1,4 +1,4 @@
-# Daniel Salazar
+# Daniel
 
 **Python / FastAPI developer with a Linux operations background** — Cali, Colombia
 
@@ -30,6 +30,6 @@ AWS Certified Cloud Practitioner · Oracle Cloud Infrastructure Foundations Asso
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dssu-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dssu)
-[![Email](https://img.shields.io/badge/Email-dssalazaru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:dssalazaru@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hello%40serverdies.com-D14836?logo=gmail&logoColor=white)](mailto:hello@serverdies.com)
 
 Open to **remote mid-level backend (Python/FastAPI) and platform/SRE roles**. Spanish native · English B1.
